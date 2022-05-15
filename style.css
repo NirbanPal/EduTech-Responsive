@@ -55,8 +55,7 @@ html{
     border:2px solid grey;
 }
 .background{
-    background-color: rgb(0, 0, 0.7);
-    background-image: url("1.jpg");
+    background: rgb(0, 0, 0.7) url("1.jpg");
     background-size: cover;
     
     /* background-blend-mode: darken; */
