@@ -45,5 +45,11 @@
     .thumbnail{
         margin-top: 50px;
     }
+    .secondhalf {
+        width: 67%;
+      }
+    .logo{
+        width: 40%;
+    }
     
 }
